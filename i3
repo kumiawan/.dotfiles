@@ -1,1 +1,0 @@
-/home/dimas/.config/i3
